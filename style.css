@@ -1,0 +1,10 @@
+html {
+  background-color: maroon;
+}
+body {
+  background-color: white;
+  width: 500px;
+  margin: 30px auto;
+  padding-left: 25px;
+  padding-right: 25px;
+}
